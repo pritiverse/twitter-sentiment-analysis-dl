@@ -1,4 +1,4 @@
-# twitter-sentiment-analysis-dl'
+
 
 # Sentiment Analysis using Deep Learning on Sentiment140 Dataset
 
@@ -641,13 +641,6 @@ Among all tested architectures, the **CNN + BiGRU** model achieved the best over
 
 The system is modular, scalable, and suitable for future NLP experimentation or deployment.
 
----
 
-# Author
-
-## Pritika Kasinathan
-
-IT Engineering Student  
-Deep Learning & NLP Enthusiast
 
 ---
